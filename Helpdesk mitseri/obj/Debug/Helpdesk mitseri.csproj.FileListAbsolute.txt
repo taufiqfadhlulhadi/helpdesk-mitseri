@@ -1,0 +1,78 @@
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Helpdesk mitseri.exe.config
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.csprojResolveAssemblyReference.cache
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\input_form.g.cs
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\App.g.cs
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri_MarkupCompile.cache
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri_MarkupCompile.lref
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Helpdesk mitseri.exe
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Helpdesk mitseri.pdb
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\input_form.baml
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\MainWindow.baml
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.g.resources
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk_mitseri.Properties.Resources.resources
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.csproj.GenerateResource.Cache
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.exe
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.pdb
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\MySql.Data.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Zstandard.Net.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Renci.SshNet.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\System.Buffers.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\MySql.Data.xml
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\view_input.g.cs
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\view_input.baml
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\edit_input.g.cs
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\edit_input.baml
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Interop.InteropExtensionLib.dll
+D:\Visual Studio Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.csproj.ResolveComReference.cache
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Helpdesk mitseri.exe.config
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Interop.InteropExtensionLib.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.csproj.ResolveComReference.cache
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.exe
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.pdb
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Helpdesk mitseri.exe
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Helpdesk mitseri.pdb
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\MySql.Data.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Google.Protobuf.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Zstandard.Net.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\Renci.SshNet.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\System.Buffers.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\MySql.Data.xml
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.csprojResolveAssemblyReference.cache
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\edit_input.g.cs
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\input_form.g.cs
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\MainWindow.g.cs
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\view_input.g.cs
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\App.g.cs
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri_MarkupCompile.cache
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri_MarkupCompile.lref
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\edit_input.baml
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\input_form.baml
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\MainWindow.baml
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\view_input.baml
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.g.resources
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk_mitseri.Properties.Resources.resources
+D:\Visual-Studio-Project\Helpdesk mitseri\Helpdesk mitseri\obj\Debug\Helpdesk mitseri.csproj.GenerateResource.Cache
